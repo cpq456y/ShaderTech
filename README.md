@@ -5,3 +5,4 @@
 
   - Vanilla Minecraft
   - Chisel antiblocks
+  - Biomes O' Plenty
