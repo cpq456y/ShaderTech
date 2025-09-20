@@ -1,2 +1,7 @@
 *.zip
 .idle/
+.idea/vcs.xml
+.idea/misc.xml
+.idea/libraries/ShaderTech.xml
+.idea/modules.xml
+.idea/ShaderTech.iml
