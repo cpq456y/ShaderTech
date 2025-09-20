@@ -1,0 +1,21 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "top_all": "appliedenergistics2:blocks/charged_quartz_ore_light_bloom",
+            "bot_all": "appliedenergistics2:blocks/charged_quartz_ore"
+        }
+    },
+    "variants": {
+        "normal": [
+            {
+                "model": "appliedenergistics2:charged_quartz_ore"
+            }
+        ],
+        "inventory": [
+            {
+                "model": "layered_cube_all_2"
+            }
+        ]
+    }
+}

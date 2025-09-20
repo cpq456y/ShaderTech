@@ -6,3 +6,4 @@
   - Vanilla Minecraft
   - Chisel antiblocks
   - Biomes O' Plenty
+  - AE2_uel
