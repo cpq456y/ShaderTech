@@ -1,7 +1,7 @@
 {
     "parent": "block/layered_cube_all_2",
     "textures": {
-        "top_all": "blocks/redstone_ore_bloom",
+        "top_all": "blocks/lit_redstone_ore_bloom",
         "bot_all": "blocks/redstone_ore"
     }
 }
