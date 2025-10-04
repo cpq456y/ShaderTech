@@ -1,0 +1,47 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "layered_cube_all_2",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"crude_oil_sand": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_sand_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_sand"
+				}
+			},
+			"crude_oil_red_sand": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_red_sand_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_red_sand"
+				}
+			},
+			"crude_oil_gravel": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_gravel_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_crude_oil_gravel"
+				}
+			},
+			"redstone": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_redstone_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_redstone"
+				}
+			},
+			"glowstone": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_glowstone_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_glowstone"
+				}
+			},
+			"ender": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_fluid_ender_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_fluid_ender"
+				}
+			}
+		}
+	}
+}

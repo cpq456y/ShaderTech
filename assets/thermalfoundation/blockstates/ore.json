@@ -1,0 +1,65 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "layered_cube_all_2",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"copper": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_copper_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_copper"
+				}
+			},
+			"tin": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_tin_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_tin"
+				}
+			},
+			"silver": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_silver_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_silver"
+				}
+			},
+			"lead": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_lead_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_lead"
+				}
+			},
+			"aluminum": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_aluminum_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_aluminum"
+				}
+			},
+			"nickel": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_nickel_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_nickel"
+				}
+			},
+			"platinum": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_platinum_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_platinum"
+				}
+			},
+			"iridium": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_iridium_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_iridium"
+				}
+			},
+			"mithril": {
+				"textures": {
+					"top_all": "thermalfoundation:blocks/ore/ore_mithril_bloom",
+					"bot_all": "thermalfoundation:blocks/ore/ore_mithril"
+				}
+			}
+		}
+	}
+}
